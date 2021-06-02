@@ -35,7 +35,7 @@ Distributed under the GNU-GPT License. See `LICENSE` for more information.
 
 - Vertix Studios - [@VertixStudios](https://twitter.com/vertixstudios)  
 - Email - [contact@vertixstudios.com](https://vertixstudios.com/about)
-- Project Link: [https://github.com/VertixStudiosOfficial/vertix-discord-bot](https://github.com/VertixStudiosOfficial/vertixstudios.com)
+- Project Link: [https://github.com/VertixStudiosOfficial/vertixstudios.com](https://github.com/VertixStudiosOfficial/vertixstudios.com)
 
 <!-- ACKNOWLEDGEMENTS -->
 ##  Acknowledgements
